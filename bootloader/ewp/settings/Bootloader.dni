@@ -1,0 +1,52 @@
+[DebugChecksum]
+Checksum=1613919929
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DriverProfiling]
+Enabled=0
+Source=2
+Graph=0
+[Disassemble mode]
+mode=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\Debug\Exe}.264.11@1" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{C:\Users\MrAweII\Documents\Projects\AR4 Firmware\Ver 1.4.1 - Copy\bootloader\src\main.c}.120.25@1" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "{C:\Users\MrAweII\Documents\Projects\AR4 Firmware\Ver 1.4.1 - Copy\bootloader\src\main.c}.118.7@1" 0 0 0 0 "" 0 "" 0
+Bp3=_ "STD_CODE" "{C:\Users\navee\Desktop\Alato\AR4  Design files\Firmware v1.5.3\AR4 v1.5.3 source - FATFS\source\ARM\Ver 1.5.3\bootloader\src\firmware_prog.c}.198.9@1" 1 0 0 0 "" 0 "" 0
+Count=4

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs/></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>203</Column0><Column1>0</Column1><Column2>27</Column2><Column3>1242260</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>601</ColumnWidth1><ColumnWidth2>980</ColumnWidth2><ColumnWidth3>451</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd2><Tabs><Tab><Identity>TabID-28834-19680</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-879-8307</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-29627-10230</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict/></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\FAT NEW Project\src\FatSD.c</Filename><XPos>0</XPos><YPos>130</YPos><SelStart>3125</SelStart><SelEnd>3125</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>429</SelStart><SelEnd>429</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\FAT NEW Project\src\LCD.c</Filename><XPos>0</XPos><YPos>184</YPos><SelStart>5681</SelStart><SelEnd>5681</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\FAT NEW Project\stm32f10x_flash.icf</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1962</SelStart><SelEnd>1962</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\FAT NEW Project\src\main.c</Filename><XPos>0</XPos><YPos>400</YPos><SelStart>11608</SelStart><SelEnd>11608</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c</Filename><XPos>0</XPos><YPos>547</YPos><SelStart>18224</SelStart><SelEnd>18224</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h</Filename><XPos>0</XPos><YPos>165</YPos><SelStart>6862</SelStart><SelEnd>6862</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>478</YPos><SelStart>20032</SelStart><SelEnd>20032</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>183</YPos><SelStart>26593</SelStart><SelEnd>26593</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00aa9ce8><key>iaridepm.enu1</key></Toolbar-00aa9ce8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>486</Bottom><Right>250</Right><x>-2</x><y>-2</y><xscreen>303</xscreen><yscreen>247</yscreen><sizeHorzCX>210417</sizeHorzCX><sizeHorzCY>299757</sizeHorzCY><sizeVertCX>175000</sizeVertCX><sizeVertCY>592233</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>294</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>296</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>359223</sizeHorzCY><sizeVertCX>241667</sizeVertCX><sizeVertCY>359223</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

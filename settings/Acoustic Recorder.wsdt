@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Acoustic Recorder/Debug</Project><Project>Bootloader/Release</Project></CurrentConfigs><CurrentProj>Acoustic Recorder</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>163</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1264</ColumnWidth1><ColumnWidth2>728</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1380</ColumnWidth1></Debug-Log><TerminalIO/><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly><Find-in-Files><ColumnWidth0>943</ColumnWidth0><ColumnWidth1>84</ColumnWidth1><ColumnWidth2>1011</ColumnWidth2></Find-in-Files><SourceBrowser/></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26328-5809</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-12894-6290</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-14188-13720</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-27227-20519</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>2</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-10047-6224</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>&lt;ws>/Bootloader</ExpandedNode><ExpandedNode>&lt;ws>/Bootloader/USER</ExpandedNode><ExpandedNode>Acoustic Recorder</ExpandedNode><ExpandedNode>Acoustic Recorder/Output</ExpandedNode><ExpandedNode>Bootloader</ExpandedNode><ExpandedNode>Bootloader/USER</ExpandedNode></NodeDict></Session></Tab><Tab><Identity>TabID-1986-7832</Identity><TabName>Source Browser</TabName><Factory>SourceBrowser</Factory><Session><TypeFilter>2147483647</TypeFilter><FileFilter>1</FileFilter></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Users\navee\Desktop\Alato\AR4  Design files\Firmware v1.5.3\AR4 v1.5.3 source - FATFS -Edit\source\ARM\Ver 1.5.3\src\record.c</Filename><XPos>0</XPos><YPos>652</YPos><SelStart>15079</SelStart><SelEnd>15079</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\navee\Desktop\Alato\AR4  Design files\Firmware v1.5.3\AR4 v1.5.3 source - FATFS -Edit\source\ARM\Ver 1.5.3\src\protocol.c</Filename><XPos>0</XPos><YPos>852</YPos><SelStart>27961</SelStart><SelEnd>27961</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\navee\Desktop\Alato\AR4  Design files\Firmware v1.5.3\AR4 v1.5.3 source - FATFS -Edit\source\ARM\Ver 1.5.3\src\record.h</Filename><XPos>0</XPos><YPos>291</YPos><SelStart>7178</SelStart><SelEnd>7190</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02694398><key>iaridepm.enu1</key></Toolbar-02694398></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>789</Bottom><Right>237</Right><x>-2</x><y>-2</y><xscreen>8054</xscreen><yscreen>18</yscreen><sizeHorzCX>8407098</sizeHorzCX><sizeHorzCY>18367</sizeHorzCY><sizeVertCX>249478</sizeVertCX><sizeVertCY>807143</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>146</Bottom><Right>960</Right><x>-2</x><y>-2</y><xscreen>962</xscreen><yscreen>148</yscreen><sizeHorzCX>1004175</sizeHorzCX><sizeHorzCY>151020</sizeHorzCY><sizeVertCX>-1238606471</sizeVertCX><sizeVertCY>491837</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

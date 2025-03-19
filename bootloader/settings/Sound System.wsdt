@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Sound System/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>439</Column0><Column1>1</Column1><Column2>27</Column2><Column3>1242260</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1382</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10537-8002</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Sound System</ExpandedNode><ExpandedNode>Sound System/CMSIS</ExpandedNode><ExpandedNode>Sound System/EWP</ExpandedNode><ExpandedNode>Sound System/FAT</ExpandedNode><ExpandedNode>Sound System/FAT/fat.c</ExpandedNode><ExpandedNode>Sound System/MCI</ExpandedNode><ExpandedNode>Sound System/STD_PERIPH</ExpandedNode><ExpandedNode>Sound System/USER</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28102-9719</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-5851-6006</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>S:\Electronics\PROJECTS\Misc\GPS\Sound System GPS Ver A\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>10</YPos><SelStart>1335</SelStart><SelEnd>1335</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>S:\Electronics\PROJECTS\Misc\GPS\Sound System GPS Ver A\src\main.c</Filename><XPos>0</XPos><YPos>112</YPos><SelStart>3376</SelStart><SelEnd>3376</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>S:\Electronics\PROJECTS\Misc\GPS\Sound System GPS Ver A\src\gps.c</Filename><XPos>0</XPos><YPos>479</YPos><SelStart>14814</SelStart><SelEnd>14814</SelEnd></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00aba238><key>iaridepm.enu1</key></Toolbar-00aba238></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>817</Bottom><Right>504</Right><x>-2</x><y>-2</y><xscreen>795</xscreen><yscreen>354</yscreen><sizeHorzCX>414063</sizeHorzCX><sizeHorzCY>352590</sizeHorzCY><sizeVertCX>263542</sizeVertCX><sizeVertCY>815737</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>143</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>145</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>144422</sizeHorzCY><sizeVertCX>414063</sizeVertCX><sizeVertCY>352590</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

@@ -1,0 +1,38 @@
+[DebugChecksum]
+Checksum=-596687593
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Source=2
+Graph=0
+[Disassemble mode]
+mode=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{S:\Electronics\PROJECTS\Threats\GPS Weedsprayer\GPS Ver A\src\hardware.c}.185.4@1" 1 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{S:\Electronics\PROJECTS\Threats\GPS Weedsprayer\GPS Ver A\src\hardware.c}.172.5@1" 1 0 0 0 "" 0 "" 0
+Count=2

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\..\ewp\Acoustic Recorder.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Bootloader.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>AR&amp;Bootloader</name>
+      <member>
+        <project>Bootloader</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>Bootloader</project>
+        <configuration>Release</configuration>
+      </member>
+      <member>
+        <project>Acoustic Recorder</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>Acoustic Recorder</project>
+        <configuration>Release</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Fat/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>249</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>601</ColumnWidth1><ColumnWidth2>980</ColumnWidth2><ColumnWidth3>451</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd2><Tabs><Tab><Identity>TabID-28834-19680</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-879-8307</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-31911-13664</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>Fat</ExpandedNode><ExpandedNode>Fat/CMSIS</ExpandedNode><ExpandedNode>Fat/EWP</ExpandedNode><ExpandedNode>Fat/USER</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\Sound System\src\main.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>1884</SelStart><SelEnd>1884</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_iwdg.c</Filename><XPos>0</XPos><YPos>121</YPos><SelStart>3614</SelStart><SelEnd>3614</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>94</YPos><SelStart>3535</SelStart><SelEnd>3542</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Utilities\STM32_EVAL\stm32_eval.h</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>2743</SelStart><SelEnd>2743</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\Sound System\src\playback.c</Filename><XPos>0</XPos><YPos>83</YPos><SelStart>2580</SelStart><SelEnd>2580</SelEnd></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\Sound System\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>225</YPos><SelStart>6405</SelStart><SelEnd>6405</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>6621</SelStart><SelEnd>6621</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\CMSIS\Core\CM3\system_stm32f10x.h</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\CMSIS\Core\CM3\stm32f10x.h</Filename><XPos>0</XPos><YPos>80</YPos><SelStart>3771</SelStart><SelEnd>3771</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>377</YPos><SelStart>11764</SelStart><SelEnd>11764</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c</Filename><XPos>0</XPos><YPos>691</YPos><SelStart>22889</SelStart><SelEnd>22889</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\Sound System\src\main.c</Filename><XPos>0</XPos><YPos>230</YPos><SelStart>7952</SelStart><SelEnd>7952</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.4\arm\examples\ST\STM32F10x\stm32f10x_stdperiph_lib\Project\Sound System\src\delay.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>2302</SelStart><SelEnd>2302</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00aba208><key>iaridepm.enu1</key></Toolbar-00aba208></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>689</Bottom><Right>323</Right><x>-2</x><y>-2</y><xscreen>325</xscreen><yscreen>253</yscreen><sizeHorzCX>253906</sizeHorzCX><sizeHorzCY>258691</sizeHorzCY><sizeVertCX>253906</sizeVertCX><sizeVertCY>706544</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>245</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>247</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>252556</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
